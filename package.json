@@ -38,5 +38,10 @@
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "loader.js": "^4.0.1"
+  },
+  "dependencies": {
+    "bower": "^1.7.9",
+    "bower-requirejs": "^1.2.0",
+    "spotify-web-api-js": "^0.19.2"
   }
 }
